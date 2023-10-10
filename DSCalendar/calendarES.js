@@ -1,2 +1,0 @@
-calendarEventsProgram("es");
-calendarMoonsProgram("es");
